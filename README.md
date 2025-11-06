@@ -1,7 +1,7 @@
 ## **My Statistics**
 
 <a href="https://github.com/JuraiAndou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuraiAndou&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuccagomes&theme=dark&hide_langs_below=1" />
 </a>
 
 
